@@ -49,12 +49,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript", 
-        "Assembly",
-        "Common Lisp"
+        "C",
+        "C++",
+        "HTML", 
+        "CSS"
       ]
     },
     {
@@ -81,27 +81,26 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Learning Design and Technology Department Office",
+      "position": "Administrative Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-08-13",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Process student applications, guide students through the application process",
+        "Reply to emails, answer phone calls, filing, cleaning"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Baskin Robbins",
+      "position": "Sales Clerk",
+      "website": "",
+      "startDate": "2017-03-17",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "preparing customers’ orders, cashiering, cleaning, decorating cakes"
       ]
     }
   ],
@@ -134,16 +133,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Chancellor's Scholarship",
+      "date": "2017-2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen who are Hawaii residents with a minimum overall GPA of 3.5 and satisfactory SAT or ACT scores."
     }
   ],
   "references": [
