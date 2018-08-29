@@ -52,9 +52,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
-        //, "Assembly",
-        //"Common Lisp"
+        "Javascript", 
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
