@@ -11,7 +11,7 @@ labels:
 summary: A simple quiz type game designed to test elementary school students' knowledge of simple arithmetic equations. 
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/MathMashPic1.png">
   <img class="ui image" src="../images/MathMashPic2.png">
   <img class="ui image" src="../images/MathMashPic3.png">
