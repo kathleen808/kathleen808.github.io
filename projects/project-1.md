@@ -12,10 +12,9 @@ summary: A simple quiz type game designed to test elementary school students' kn
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/MathMashPic1.png">
+  <img class="ui image" src="../images/MathMashPic2.jpg">
+  <img class="ui image" src="../images/MathMashPic3.jpg">
 </div>
 
 Math Mash is a simple math game constructed using GUIs in the Java programming language. I came up with the game design and built a primitive version using [MIT App Inventor for Android](http://appinventor.mit.edu/explore/) during my senior year in high school. During my first semester in college, I had the opportunity to rebuild the game in my ICS 111 class as an extra credit project. I was excited to see how much I improved during the semester. Figuring out the logic and programming went very smoothly as I already had already done it once before. The most frustrating part of the process was formatting the components on the screen with Java's GUI components. 
