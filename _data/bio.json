@@ -74,7 +74,7 @@
       "studyType": "B.S.",
       "startDate": "2017-08-21",
       "endDate": "Present",
-      "gpa": "4.0",
+      "gpa": "",
       "courses": [
       ]
     }
@@ -111,6 +111,12 @@
       "date": "2017-2021",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen who are Hawaii residents with a minimum overall GPA of 3.5 and exceptional SAT or ACT scores."
+    }, 
+    {
+      "title": "Dean's List",
+      "date": "2017-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester. "
     }
   ],
   "references": [
