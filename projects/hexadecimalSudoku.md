@@ -8,6 +8,9 @@ permalink: projects/hexadecimalSudoku
 date: 2018-03-26
 labels:
   - Java
+  - recursion
+  - backtracking
+  - game
 summary: A Hexadecimal Sudoku Solver for my ICS 211 class. 
 ---
 
