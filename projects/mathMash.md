@@ -27,4 +27,4 @@ The goal of the game is to answer as many questions as possible before time runs
 The first time I built this game using App Inventor, I learned the basics of object oriented programming. However, since the language that I was using was a block based programming language, it was very restrictive and frustrating to work with. However, it was a lot less infuriating than working with the GUI Java components. When I rebuilt the game in Java, I was surprised by how much I improved over the course of a few months. The math operation and timer logic came naturally to me and the programming went smoothly. I also learned how to use the GUI Java components. This was the first time that I utilized them, and I have to say I did not enjoy the experience. They are extremely tedious, fragile, and just overall very tedious to deal with. 
 
 
-
+Click to view [source code] (https://github.com/kathleen808/math-mash). 
