@@ -20,3 +20,4 @@ The solveSudoku() method takes one ```int[][]```, which represents the unsolved 
 
 This project helped me to better understand and visualize recursion, while also introducing me to new concepts, such as backtracking. 
 
+View the source code [here](https://github.com/kathleen808/hexadecimal-sudoku). 
