@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Learning Javascript
+title: How to be Smart... when asking questions
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
