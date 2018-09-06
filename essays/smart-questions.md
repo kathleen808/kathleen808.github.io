@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 
-Growing up, we have always been encouraged to ask questions. Teachers have always said, “There are no dumb questions.” However, Eric Steven Raymond, the author of How to Ask Questions the Smart Way, would beg to differ. His essay explains what smart questions are and how, when, and where to ask them. 
+Growing up, we have always been encouraged to ask questions. Teachers have always said, “There are no dumb questions.” However, Eric Steven Raymond, the author of [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html), would beg to differ. His essay explains what smart questions are and how, when, and where to ask them. 
 
 ## Why?
 Why should we learn how to ask smart questions? Why are they important? Why should I read the rest of this page? Knowing how to ask smart questions is an invaluable skill, not just for software engineers, but for people in all walks of life. Asking smart questions increases your chances of obtaining the information that you are searching for in a reduced amount of time. 
