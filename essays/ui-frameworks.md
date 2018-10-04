@@ -30,19 +30,15 @@ My Attempt:
 </div>
 
 If you are interested, this is the final result showing the whole site.
-<div class="ui two column grid">
-  <div class="column">
-    Original: 
-    <div class="ui rounded image">
-      <img class="ui image" src="../images/Original.png" width="49%">
-    </div>
-  </div>
-  <div class="column">
-    My Attempt: 
-    <div class="ui rounded image">
-      <img class="ui image" src="../images/Copy.png" width="49%">
-    </div>
-  </div>
+
+Original: 
+<div class="ui rounded image">
+  <img class="ui image" src="../images/Original.png" width="90%">
+</div>
+
+My Attempt: 
+<div class="ui rounded image">
+  <img class="ui image" src="../images/Copy.png" width="90%">
 </div>
 
 ## Final Thoughts 
