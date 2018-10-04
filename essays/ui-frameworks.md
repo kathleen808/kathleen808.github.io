@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks
+title: Frame of Mind
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
@@ -23,9 +23,26 @@ Original:
 <div class="ui rounded image">
   <img class="ui image" src="../images/BRcolumns2.png" width="725">
 </div>
+
 My Attempt: 
 <div class="ui rounded image">
   <img class="ui image" src="../images/BRcolumns1.png" width="725">
+</div>
+
+If you are interested, this is the final result showing the whole site.
+<div class="ui two column grid">
+  <div class="column">
+    Original: 
+    <div class="ui rounded image">
+      <img class="ui image" src="../images/Original.png" width="49%">
+    </div>
+  </div>
+  <div class="column">
+    My Attempt: 
+    <div class="ui rounded image">
+      <img class="ui image" src="../images/Copy.png" width="49%">
+    </div>
+  </div>
 </div>
 
 ## Final Thoughts 
