@@ -12,7 +12,7 @@ labels:
 ## Would you Rather…
 As you are working on your final project for your Software Engineering class, you run into a problem (something is probably undefined again). 
 
-Option A: Spend hours on end attempting to fix the problem with your limited knowledge. Pull an all-nighter, pull your hair out, and by the end of all of your suffering, you still haven’t made much progress. 
+Option A: Spend hours on end attempting to fix the problem with your limited knowledge. Pull an all-nighter, pull your hair out, and by the end of all of your suffering, you still haven’t made much progress. <br/>
 Option B: Steal the solution to a similar problem that was developed through the blood, sweat, and tears of people much smarter than you, and adapt it to fit your needs. 
 
 I don’t know about you, but Option B seems much more appealing to me. You may think that you know the best solution for this situation or that other solutions are outdated and no longer apply to this specific problem, but if you examine the fundamental aspects behind the code, you may find that the general approach still applies to the most common problems in software engineering today. 
