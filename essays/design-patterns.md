@@ -11,6 +11,7 @@ labels:
 
 ## Would you Rather…
 As you are working on your final project for your Software Engineering class, you run into a problem (something is probably undefined again). 
+
 Option A: Spend hours on end attempting to fix the problem with your limited knowledge. Pull an all-nighter, pull your hair out, and by the end of all of your suffering, you still haven’t made much progress. 
 Option B: Steal the solution to a similar problem that was developed through the blood, sweat, and tears of people much smarter than you, and adapt it to fit your needs. 
 
@@ -18,7 +19,7 @@ I don’t know about you, but Option B seems much more appealing to me. You may 
 
 Design patterns are general templates of solutions that can be adapted to solve frequently occurring problems in software design. Rather than actual code that you can directly paste into your program, they describe how to approach a specific type of problem or scenario. Alone, they don’t amount to much, but when applied correctly, they can vastly improve quality of your code while also reducing the time it takes to produce results.
 
-## Common Design Patterns Explained in Plain English Reimagined (as People and Pokémon)
+## Common Design Patterns Explained in Plain English
 
 The Factory Design Pattern is basically a fancy constructor that is used to create adaptable objects. It is my favorite design pattern because its flexibility opens up innumerable options, making things much simpler to implement. The Factory Design Pattern is similar to a blank slate. Depending on how you implement it and the parameters that you pass in, it can transform in to completely different objects. 
 
@@ -32,6 +33,3 @@ The Model is the data and information that the program references. The developer
 
 ## Knowing is One Thing, but Implementing is another 
 When I first learned exactly what design patters were this week, I was surprised that I had already used them quite a bit during this semester and even in the past. I even used almost all of the design patterns above in just my final project for my ICS 314 class. I used the Factory to create profiles and clubs and to render the cards and pages to display them. I used the Observer Design Pattern whenever I had to deal with event handlers for getting any type of user input. I also used the MVC Design Pattern, with MongoDB as the Model, React as the View, and React Router as the Controller. If you’re interested in what my group and I came up with, visit the [clUHbs homepage]( https://cluhbs.github.io/).
-
-
-
