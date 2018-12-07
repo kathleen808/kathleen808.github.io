@@ -13,7 +13,7 @@ labels:
   - MongoDB
 summary: An application that provides centralized club directory for UH Manoa student clubs. 
 ---
-<div class="ui centered fluid container">
+<div class="ui center aligned fluid container">
 <img width="265px" src="../images/cluhbs/landing-page3.png"/>
 <img width="265px" src="../images/cluhbs/account-setting.png"/>
 <img width="265px" src="../images/cluhbs/userHomePage.png"/>
