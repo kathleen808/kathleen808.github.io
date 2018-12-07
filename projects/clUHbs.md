@@ -14,16 +14,16 @@ labels:
 summary: An application that provides centralized club directory for UH Manoa student clubs. 
 ---
 
-<img height="200px" src="../images/cluhbs/landing-page3.png"/>
-<img height="200px" src="../images/cluhbs/userHomePage.png"/>
-<img height="200px" src="../images/cluhbs/club-directory.png"/>
-<img height="200px" src="../images/cluhbs/edit-profile2.png"/>
-<img height="200px" src="../images/cluhbs/profile2.png"/>
-<img height="200px" src="../images/cluhbs/edit-club3.png"/>
-<img height="200px" src="../images/cluhbs/manage-club3.png"/>
-<img height="200px" src="../images/cluhbs/admin-homepage.png"/>
-<img height="200px" src="../images/cluhbs/admin-club-directory.png"/>
-<img height="200px" src="../images/cluhbs/account-setting.png"/>
+<img width="275px" src="../images/cluhbs/landing-page3.png"/>
+<img width="275px" src="../images/cluhbs/userHomePage.png"/>
+<img width="275px" src="../images/cluhbs/club-directory.png"/>
+<img width="275px" src="../images/cluhbs/edit-profile2.png"/>
+<img width="275px" src="../images/cluhbs/profile2.png"/>
+<img width="275px" src="../images/cluhbs/edit-club3.png"/>
+<img width="275px" src="../images/cluhbs/manage-club3.png"/>
+<img width="275px" src="../images/cluhbs/admin-homepage.png"/>
+<img width="275px" src="../images/cluhbs/admin-club-directory.png"/>
+<img width="275px" src="../images/cluhbs/account-setting.png"/>
 
 ### Summary
 [clUHbs](https://cluhbs.meteorapp.com/#/) is an application that I developed with Kylie Lin, Leisha Soberano-Keawemauhili, and Keanu Williams for our ICS 314 Final Project. It provides a centralized club directory of UH Manoa student clubs. But that's not all, it also provides several additional features to enhance the user's experience. In addition to the basic Club Directory, there is a search bar that allows the users to search by different categories, such as interest areas or name. If the user is logged in, they can save clubs to have them easily accessible on their homepage. They can create and edit their profile and receive club recommendations based on their interests. Notifications for new, deleted, and updated clubs are sent out to subscribed users. Users can change their password, notifications settings, and more on the Account Settings page.
