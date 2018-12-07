@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cluhbs-footer.png
+image: images/cluhbs/cluhbs-footer.png
 title: clUHbs
 permalink: projects/cluhbs
 # All dates must be YYYY-MM-DD format!
