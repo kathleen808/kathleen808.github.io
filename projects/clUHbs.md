@@ -5,7 +5,7 @@ image: images/cluhbs/cluhbs-footer.png
 title: clUHbs
 permalink: projects/cluhbs
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-6
+date: 2018-12-06
 labels:
   - Javascript
   - React
@@ -59,4 +59,4 @@ If you haven't already, check out our app: [clUHbs](https://cluhbs.meteorapp.com
 
 For more information, visit the [clUHbs homepage](https://cluhbs.github.io/).
 
-View the source code [here](https://github.com/cluhbs/cluhbs).
+View the [source code](https://github.com/cluhbs/cluhbs).
