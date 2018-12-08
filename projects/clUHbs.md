@@ -13,9 +13,8 @@ labels:
   - MongoDB
 summary: An application that provides centralized club directory for UH Manoa student clubs. 
 ---
-<div class="ui styled accordion">
-  <div class="active title"><i class="dropdown icon"></i> clUHbs Screenshots</div>
-  <div class="active content">
+<details>
+  <summary><i class="dropdown icon"></i> clUHbs Screenshots</summary>
     <div class="ui center aligned fluid container">
       <img width="265px" src="../images/cluhbs/landing-page3.png"/>
       <img width="265px" src="../images/cluhbs/account-setting.png"/>
@@ -28,103 +27,7 @@ summary: An application that provides centralized club directory for UH Manoa st
       <img width="265px" src="../images/cluhbs/admin-homepage.png"/>
       <img width="265px" src="../images/cluhbs/admin-club-directory.png"/>
     </div>
-  </div>
-</div>
-
-<div class="ui styled accordion">
-  <div class="active title">
-    <i class="dropdown icon"></i>
-    Level 1
-  </div>
-  <div class="active content">
-    Welcome to level 1
-    <div class="accordion">
-      <div class="active title">
-          <i class="dropdown icon"></i>
-          Level 1A
-      </div>
-      <div class="active content">
-        <p>Level 1A Contents</p>
-        <div class="accordion">
-          <div class="title">
-              <i class="dropdown icon"></i>
-              Level 1A-A
-          </div>
-          <div class="content">
-              Level 1A-A Contents
-          </div>
-          <div class="title">
-              <i class="dropdown icon"></i>
-              Level 1A-B
-          </div>
-          <div class="content">
-              Level 1A-B Contents
-          </div>
-        </div>
-      </div>
-      <div class="title">
-          <i class="dropdown icon"></i>
-          Level 1B
-      </div>
-      <div class="content">
-          Level 1B Contents
-      </div>
-      <div class="title">
-          <i class="dropdown icon"></i>
-          Level 1C
-      </div>
-      <div class="content">
-          Level 1C Contents
-      </div>
-    </div>
-  </div>
-  <div class="title">
-    <i class="dropdown icon"></i>
-    Level 2
-  </div>
-  <div class="content">
-    <p>Welcome to level 2</p>
-    <div class="accordion">
-      <div class="active title">
-        <i class="dropdown icon"></i>
-        Level 2A
-      </div>
-      <div class="active content">
-        <p>Level 2A Contents</p>
-        <div class="accordion">
-          <div class="title">
-              <i class="dropdown icon"></i>
-              Level 2A-A
-          </div>
-          <div class="content">
-              Level 2A-A Contents
-          </div>
-          <div class="title">
-              <i class="dropdown icon"></i>
-              Level 2A-B
-          </div>
-          <div class="content">
-              Level 2A-B Contents
-          </div>
-        </div>
-      </div>
-      <div class="title">
-          <i class="dropdown icon"></i>
-          Level 2B
-      </div>
-      <div class="content">
-          Level 2B Contents
-      </div>
-      <div class="title">
-          <i class="dropdown icon"></i>
-          Level 2C
-      </div>
-      <div class="content">
-          Level 2C Contents
-      </div>
-    </div>
-  </div>
-</div>
+</details>
 
 ### Summary
 [clUHbs](https://cluhbs.meteorapp.com/#/) is an application that I developed with Kylie Lin, Leisha Soberano-Keawemauhili, and Keanu Williams for our ICS 314 Final Project. It provides a centralized club directory of UH Manoa student clubs. But that's not all, it also provides several additional features to enhance the user's experience. In addition to the basic Club Directory, there is a search bar that allows the users to search by different categories, such as interest areas or name. If the user is logged in, they can save clubs to have them easily accessible on their homepage. They can create and edit their profile and receive club recommendations based on their interests. Notifications for new, deleted, and updated clubs are sent out to subscribed users. Users can change their password, notifications settings, and more on the Account Settings page.
