@@ -15,7 +15,7 @@ summary: An N-Queens problem solver for my ICS 211 class.
 <details>
   <summary>N-Queens Code Screenshots</summary>
     <div class="ui center aligned fluid container">
-      <div class="ui medium rounded images">
+      <div class="ui rounded images">
         <img class="ui image" src="../images/nQueens1.png">
         <img class="ui image" src="../images/nQueens2.png">
         <img class="ui image" src="../images/nQueens3.png">

@@ -16,7 +16,7 @@ summary: A Hexadecimal Sudoku Solver for my ICS 211 class.
 <details>
   <summary>Hexadecimal Sudoku Code Screenshots</summary>
     <div class="ui center aligned fluid container">
-      <div class="ui medium rounded images">
+      <div class="ui rounded images">
         <img class="ui image" src="../images/HexSudoku0.png">
         <img class="ui image" src="../images/HexSudoku1.png">
         <img class="ui image" src="../images/HexSudoku2.png">
