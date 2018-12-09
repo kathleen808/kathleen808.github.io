@@ -29,10 +29,10 @@ summary: An application that provides centralized club directory for UH Manoa st
     </div>
 </details>
 
-<div style="vertical-align: middle">
-  <h3 class="ui header">About</h3>
-  <img class="ui tiny image" src="../images/cluhbs/cluhbs-footer.png">
-</div>
+<h3 class="ui header">
+  <div class="content">About</div>
+  <img class="ui image" src="../images/cluhbs/cluhbs-footer.png">
+</h3>
 [clUHbs](https://cluhbs.meteorapp.com/#/) is an application that I developed with Kylie Lin, Leisha Soberano-Keawemauhili, and Keanu Williams for our ICS 314 Final Project. It provides a centralized club directory of UH Manoa student clubs. But that's not all, it also provides several additional features to enhance the user's experience. In addition to the basic Club Directory, there is a search bar that allows the users to search by different categories, such as interest areas or name. If the user is logged in, they can save clubs to have them easily accessible on their homepage. They can create and edit their profile and receive club recommendations based on their interests. Notifications for new, deleted, and updated clubs are sent out to subscribed users. Users can also change their password, notifications settings, and more on the Account Settings page.
 
 ### clUHbs Roles
