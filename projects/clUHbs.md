@@ -63,4 +63,6 @@ If you haven't already, check out our app: [clUHbs](https://cluhbs.meteorapp.com
 
 For more information, visit the [clUHbs homepage](https://cluhbs.github.io/).
 
+View the [Organization GitHub Page](https://github.com/cluhbs).
+
 View the [source code](https://github.com/cluhbs/cluhbs).
