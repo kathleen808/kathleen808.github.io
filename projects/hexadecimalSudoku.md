@@ -16,9 +16,11 @@ summary: A Hexadecimal Sudoku Solver for my ICS 211 class.
 <details>
   <summary>Hexadecimal Sudoku Code Screenshots</summary>
     <div class="ui center aligned fluid container">
-     ![](../images/HexSudoku0.png)
-     ![](../images/HexSudoku1.png)
-     ![](../images/HexSudoku2.png)
+      <div class="ui medium rounded images">
+        <img class="ui image" src="../images/HexSudoku0.png">
+        <img class="ui image" src="../images/HexSudoku1.png">
+        <img class="ui image" src="../images/HexSudoku2.png">
+      </div>
     </div>
 </details>
 
