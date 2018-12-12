@@ -29,12 +29,12 @@
   },
   "interests": [
     {
-      "name": "Mobile App Development",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Mobile App Development",
       "keywords": [
       ]
     },
@@ -62,7 +62,12 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Windows"
+        "Windows",
+        "MongoDB",
+        "Meteor",
+        "React",
+        "Semantic UI",
+        "Semantic UI React"
       ]
     }
   ],
@@ -76,19 +81,29 @@
       "gpa": "",
       "courses": [
       ]
+    }, 
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Economics (expected Spring, 2021)",
+      "studyType": "B.A.",
+      "startDate": "2017-08-21",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "Learning Design and Technology Department Office",
+      "company": "University of Hawaii at Mānoa - Learning Design and Technology Department",
       "position": "Administrative Assistant",
       "website": "",
       "startDate": "2018-08-13",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Process student applications, guide students through the application process",
-        "Reply to emails, answer phone calls, filing, cleaning"
+        "Guide incoming students and process their applications for the Master’s and PhD programs",
+        "Transcribe and archive documents"
       ]
     },
     {
@@ -99,7 +114,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Prepare customers’ orders, cashiering, cleaning, decorating cakes"
+        "Prepare customers’ orders, keep the store clean and well stocked, decorate cakes, cashiering"
       ]
     }
   ],
