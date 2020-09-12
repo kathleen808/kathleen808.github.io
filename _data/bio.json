@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kathleen Dy",
     "label": "Student",
-    "picture": "https://kathleen808.github.io/images/pic1.jpg",
+    "picture": "https://kathleen808.github.io/images/DSC_0156 copy.JPG",
     "email": "kdy3@hawaii.edu",
     "phone": "",
     "website": "https://kathleen808.github.io",
@@ -51,10 +51,13 @@
       "keywords": [
         "Java",
         "Javascript", 
+        "Python",
         "C",
         "C++",
         "HTML", 
-        "CSS"
+        "CSS",
+        "LISP",
+        "Prolog"
       ]
     },
     {
